@@ -1,0 +1,6 @@
+.env.json
+.tmp/
+dist/
+src/app/config.js
+node_modules/
+jspm_packages/
