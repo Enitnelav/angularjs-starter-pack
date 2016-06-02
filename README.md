@@ -4,7 +4,7 @@ A simple template including Gulp, JSPM, ES6 & AngularJS 1.4 to stop dealing with
 
 ## Setup
 
-1. `git clone git@github.com:mangiavellano/angularjs-starter-pack.git`
+1. `git clone https://github.com/mangiavellano/angularjs-starter-pack`
 2. `cd angularjs-starter-pack`
 3. `npm install`
 4. `gulp serve`
