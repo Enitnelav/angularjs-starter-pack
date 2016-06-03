@@ -1,7 +1,3 @@
-/*
-** usage: git@github.com:mangiavellano/angularjs-template.git
-*/
-
 'use strict';
 
 import angular from 'angular';
